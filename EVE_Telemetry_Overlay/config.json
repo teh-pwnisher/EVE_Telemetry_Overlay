@@ -1,0 +1,21 @@
+{
+  "x": 25,
+  "y": 80,
+  "width": 720,
+  "height": 980,
+  "font_family": "Consolas",
+  "font_size": 9,
+  "foreground": "#79ff79",
+  "transparent_key": "#010203",
+  "always_on_top": true,
+  "click_through": false,
+  "refresh_ms": 450,
+  "eve_poll_ms": 120,
+  "max_lines": 220,
+  "show_gpu": true,
+  "gpu_poll_seconds": 4,
+  "show_process_lines": true,
+  "process_poll_seconds": 5,
+  "show_windows_noise": true,
+  "windows_noise_seconds": 8
+}
